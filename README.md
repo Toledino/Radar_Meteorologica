@@ -3,17 +3,19 @@ Este kit Arduino inclui um Radar Ultrassônico e uma Estação Meteorológica av
 
 # Estaçao Metereológica
 
+
+
 <table>
   <tr>
     <td align="center">
-      <img src="./fig/estacao1.jpg" alt="Tela de Login" width="400px" />
+      <img src="./fig/estacao1.jpg" alt="Estação Meteorológica" width="400px" />
       <br />
-      <sub><b>1. Tela de Login</b></sub>
+      <sub><b>Estação Meteorológica</b></sub>
     </td>
     <td align="center">
-      <img src="./fig/estacao2.png" alt="Dashboard Principal" width="400px" />
+      <img src="./fig/estacao2.png" alt="Esquemático Estação Meteorológica" width="400px" />
       <br />
-      <sub><b>2. Dashboard Principal</b></sub>
+      <sub><b>Esquemático Estação Meteorológica</b></sub>
     </td>
   </tr>
 </table>
@@ -23,14 +25,14 @@ Este kit Arduino inclui um Radar Ultrassônico e uma Estação Meteorológica av
 <table>
   <tr>
     <td align="center">
-      <img src="./fig/radar1.jpg" alt="Tela de Login" width="400px" />
+      <img src="./fig/radar1.jpg" alt="Radar Ultrassônico" width="400px" />
       <br />
-      <sub><b>1. Tela de Login</b></sub>
+      <sub><b>Radar Ultrassônico</b></sub>
     </td>
     <td align="center">
-      <img src="./fig/radar2.png" alt="Dashboard Principal" width="400px" />
+      <img src="./fig/radar2.png" alt="Esquemático Radar Ultrassônico" width="400px" />
       <br />
-      <sub><b>2. Dashboard Principal</b></sub>
+      <sub><b>Esquemático Radar Ultrassônico</b></sub>
     </td>
   </tr>
 </table>
