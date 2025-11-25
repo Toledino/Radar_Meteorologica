@@ -24,9 +24,9 @@ Este kit de estação meteorológica compacta é controlado por um Arduino Nano 
 Este kit de radar ultrassônico é uma aplicação sofisticada de monitoramento espacial controlada por um Arduino Nano (conexão USB-C). O sistema utiliza um servomotor SG90 para movimentar o sensor HC-SR04 em um arco de varredura, mapeando o ambiente em tempo real. Os dados são processados e renderizados em um display OLED de 0.96 polegadas (bicolor amarelo/azul), que exibe uma interface gráfica imersiva similar a um radar real: uma seta de varredura gira indicando o ângulo atual, plotando obstáculos na tela que desaparecem gradualmente (efeito de persistência). Para alertas de proximidade, o sistema monitora continuamente a distância e aciona um buzzer ativo automaticamente caso qualquer objeto seja detectado a menos de 20 cm do sensor.
 
 ## Destaques do Funcionamento
-Varredura Ativa:O servo move o sensor (geralmente entre 15° e 165°) para cobrir uma área ampla.
+Varredura Ativa:O servo move o sensor (geralmente entre 0° e 180°) para cobrir uma área ampla.
 Visualização Dinâmica: O display OLED não mostra apenas números; ele desenha o arco e a posição dos objetos (pontos) em relação ao centro.
-Feedback Sonoro: O alarme de proximidade (< 20cm) adiciona uma camada de segurança ou interatividade ao projeto
+Feedback Sonoro: O alarme de proximidade (< 25cm) adiciona uma camada de segurança ou interatividade ao projeto
 
 <table>
   <tr>
