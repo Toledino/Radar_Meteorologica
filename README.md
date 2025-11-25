@@ -74,4 +74,8 @@ No menu que abrir, clique na última opção: **Download ZIP**
 4. **Descompacte:** O navegador vai baixar um arquivo .zip. Basta clicar com o botão direito nele e escolher "Extrair tudo" (ou "Extract here") para acessar os arquivos.
 
 
+<div align="center">
+  <img src="./fig/radar1.jpg" alt="Radar Ultrassônico" width="700px">
+</div>
+
 
