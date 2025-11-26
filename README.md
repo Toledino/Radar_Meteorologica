@@ -61,6 +61,10 @@ Se você só precisa do código do Arduino (o arquivo .ino) e não quer baixar o
 5. Alternativa: Clique no botão escrito **Raw**. O navegador abrirá uma página só com o texto preto no branco. Dê Ctrl+A para selecionar tudo e Ctrl+C para copiar.
 6. **Cole:** Abra sua IDE do Arduino e cole o código (Ctrl+V).
 
+   <div align="center">
+  <img src="./fig/github.png" alt="Github" width="700px">
+</div>
+
 **🤖 Dicas para Pedir Ajuda à IA na Programação Arduino**   
 
 Para aproveitar ao máximo a ajuda de uma IA, como eu, ao analisar seu código Arduino, é fundamental ser **claro e fornecer o máximo de contexto possível.Copie e cole o código completo** que você está utilizando. Em seguida, use comandos específicos para quebrar o código em partes compreensíveis. Por exemplo, você pode começar pedindo: **"Analise o código Arduino abaixo. Explique, linha por linha ou em blocos de função, o que cada parte faz e como ela se relaciona com o objetivo geral do projeto."** Não se esqueça de mencionar o hardware que você está usando (ex: "Estou usando um Arduino Nano com um sensor ultrassônico HC-SR04 e um servo motor SG90"). Isso me ajuda a entender a função das bibliotecas (#include <...> ) e as variáveis que você declarou para os pinos. Se houver alguma função que você não entende completamente, pergunte diretamente sobre ela: **"O que exatamente o comando** digital Write(pin, HIGH); **faz na função** loop() **e por que você o usaria dessa forma?"**
@@ -68,9 +72,5 @@ Para aproveitar ao máximo a ajuda de uma IA, como eu, ao analisar seu código A
 Depois de entender a função de cada parte, você pode avançar para **perguntas mais conceituais** ou de **depuração**. Se o seu código não estiver funcionando, diga-me **o que você esperava que acontecesse** e **o que realmente está acontecendo** (ex: "O LED D13 deveria piscar a cada 500ms, mas ele fica aceso direto"). Isso me permite ir além de uma simples explicação e focar na **lógica do programa** e em **erros de sintaxe ou de hardware**. Além disso, use a IA para **explorar alternativas**. Pergunte: **"Existe uma forma mais eficiente (em termos de memória ou velocidade) de escrever esta parte do código onde leio o sensor?"** Ou, se estiver pronto para o próximo passo, peça sugestões de como **expandir o projeto**: **"Como eu poderia adicionar um display OLED para mostrar os dados lidos pelo sensor neste código?"** Transforme a IA em seu parceiro de depuração e design.
 
 
-
-<div align="center">
-  <img src="./fig/radar1.jpg" alt="Radar Ultrassônico" width="700px">
-</div>
 
 
